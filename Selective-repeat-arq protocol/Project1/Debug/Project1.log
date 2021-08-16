@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.c
+C:\Users\sahana\source\repos\Project1\Project1\Source.c(32,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\sahana\source\repos\Project1\Project1\Source.c(32,31): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\sahana\source\repos\Project1\Project1\Source.c(38,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\sahana\source\repos\Project1\Project1\Source.c(38,31): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\sahana\source\repos\Project1\Project1\Source.c(87,32): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\sahana\source\repos\Project1\Project1\Source.c(469,21): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\sahana\source\repos\Project1\Project1\Source.c(476,22): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\sahana\source\repos\Project1\Project1\Source.c(484,22): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\sahana\source\repos\Project1\Project1\Source.c(492,18): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\sahana\source\repos\Project1\Project1\Source.c(501,26): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\sahana\source\repos\Project1\Project1\Source.c(508,22): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\sahana\source\repos\Project1\Project1\Source.c(513,18): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\sahana\source\repos\Project1\Project1\Source.c(655,29): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\sahana\source\repos\Project1\Project1\Source.c(685,26): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\sahana\source\repos\Project1\Project1\Source.c(687,25): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  Project1.vcxproj -> C:\Users\sahana\source\repos\Project1\Debug\Selective-repeat-ARQ-protocol.exe
